@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "say"
+version = "1.2.0"
+description = "say it"
+license = "MIT OR Apache-2.0"
+repository = "exercism"
+keywords = ["say", "exercism"]
+categories = ["exercism"]
